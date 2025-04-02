@@ -638,7 +638,7 @@
             />
           </div>
         {/if}
-          <!-- <div class="reverse-button">
+          <div class="reverse-button">
             <Input
               on:click={refundModal.show()}
               label="Devolución"
@@ -647,7 +647,7 @@
               className="border-btn-error"
               icon=""
             />
-          </div> -->
+          </div>
         <!-- <div class="clarification-button">
           <Input
             on:click={showModal(modalClarification)}
