@@ -55,7 +55,7 @@
       <div class="logo">
         <img src={Logo} alt="Company Logo" />
         <div class="text">
-          <p>Payment Nexus</p>
+          <p>WaliApp</p>
         </div>
       </div>
       <div class="form">

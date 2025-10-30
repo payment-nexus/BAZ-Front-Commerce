@@ -67,7 +67,7 @@
         <a href="/">
           <div class="text-logo">
             <div class="title">
-              <p>Payment Nexus</p>
+              <p>WaliApp</p>
             </div>
           </div>
           <img src={logo} alt="Company Logo" />
